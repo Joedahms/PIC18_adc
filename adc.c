@@ -2,6 +2,8 @@
 
 #include "adc.h"
 
+
+
 void adc_init()
 {
     // set AN4 as analog input (pin 6)
